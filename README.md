@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/lephuongtrung" target="blank"><img align="center" src="https://cdn.simpleicons.org/devdotto/000000" alt="devto" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/lephuongtrung" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://dev.to/lephuongtrung" target="blank"><img align="center" src="https://cdn.simpleicons.org/devdotto/000000" alt="devto" height="30" width="40" /><a href="https://linkedin.com/in/lephuongtrung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lephuongtrung" height="30" width="40" /></a>
   <a href="https://fb.com/LPTrung2001" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook/1877F2" alt="facebook" height="30" width="40" /></a>
   <a href="https://lephuongtrung.id.vn/vn" target="blank"><img align="center" src="https://cdn.simpleicons.org/internetarchive/000000" alt="portfolio" height="30" width="40" /></a>
 </p>
